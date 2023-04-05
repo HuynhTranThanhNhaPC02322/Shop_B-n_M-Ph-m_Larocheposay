@@ -1,0 +1,220 @@
+.login {
+  position: absolute;
+  top: 0;
+  left: 341.35px;
+  font-size: 96px;
+  letter-spacing: -0.01em;
+  color: var(--color-black);
+  display: inline-block;
+  width: 312.37px;
+  height: 92.45px;
+}
+.group-child107,
+.group-child108 {
+  position: absolute;
+  top: 142.53px;
+  left: 1.07px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 992.93px;
+  height: 109.79px;
+}
+.group-child108 {
+  top: 332.26px;
+}
+.password,
+.username {
+  position: absolute;
+  top: 387.15px;
+  left: 31.13px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: -0.01em;
+  color: var(--color-gray-900);
+  display: inline-block;
+  width: 187.85px;
+  height: 34.67px;
+}
+.username {
+  top: 197.43px;
+  width: 226.49px;
+}
+.group-child109 {
+  position: absolute;
+  top: 630.8px;
+  left: 699.88px;
+  background-color: var(--color-gray-800);
+  width: 294.12px;
+  height: 99.2px;
+}
+.login1 {
+  position: absolute;
+  top: 646.21px;
+  left: 776.09px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 217.91px;
+  height: 67.41px;
+}
+.group-child110 {
+  position: absolute;
+  top: 630.8px;
+  left: 0;
+  background-color: var(--color-gray-800);
+  width: 294.12px;
+  height: 99.2px;
+}
+.sign-up {
+  position: absolute;
+  top: 646.21px;
+  left: 15.03px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 262.99px;
+  height: 67.41px;
+}
+.tick-box-480px-1-icon {
+  position: absolute;
+  top: 505.61px;
+  left: 0;
+  width: 31.13px;
+  height: 28.89px;
+  object-fit: cover;
+}
+.forgot-password,
+.remember-me {
+  position: absolute;
+  top: 508.5px;
+  left: 45.08px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.01em;
+  color: var(--color-black);
+  display: inline-block;
+  width: 198.59px;
+  height: 26px;
+}
+.forgot-password {
+  top: 507.53px;
+  left: 735.3px;
+  width: 258.7px;
+}
+.group-child111,
+.group-child112 {
+  position: absolute;
+  top: 816.29px;
+  left: 0.57px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 432.52px;
+  height: 1px;
+}
+.group-child112 {
+  left: 559.83px;
+  width: 434.67px;
+}
+.or {
+  position: absolute;
+  top: 775.26px;
+  left: 451.92px;
+  font-size: var(--font-size-45xl);
+  letter-spacing: -0.01em;
+  font-family: var(--font-glegoo);
+  color: var(--color-black);
+  display: inline-block;
+  width: 92.32px;
+  height: 83.79px;
+}
+.group-child113,
+.group-child114,
+.group-child115 {
+  position: absolute;
+  top: 865.5px;
+  left: 242.6px;
+  background-color: #3351ef;
+  width: 517.4px;
+  height: 65.53px;
+}
+.group-child114,
+.group-child115 {
+  top: 950.36px;
+  background-color: #10c5d0;
+}
+.group-child115 {
+  top: 1029.46px;
+  background-color: #37d010;
+}
+.facebook-480px-1-icon {
+  position: absolute;
+  top: 860.12px;
+  left: 235.08px;
+  width: 80.51px;
+  height: 75.2px;
+  object-fit: cover;
+}
+.login-with-facbook {
+  position: absolute;
+  top: 859.05px;
+  left: 338.13px;
+  letter-spacing: -0.01em;
+  font-family: var(--font-glegoo);
+  display: inline-block;
+  width: 393.95px;
+  height: 77.35px;
+}
+.twitter-480px-1-icon {
+  position: absolute;
+  top: 941.77px;
+  left: 234.01px;
+  width: 81.58px;
+  height: 81.64px;
+  object-fit: cover;
+}
+.login-with-twitter {
+  position: absolute;
+  top: 943.92px;
+  left: 338.13px;
+  letter-spacing: -0.01em;
+  font-family: var(--font-glegoo);
+  display: inline-block;
+  width: 362.82px;
+  height: 77.35px;
+}
+.google-480px-1-icon {
+  position: absolute;
+  top: 1032.4px;
+  left: 241.52px;
+  width: 67.63px;
+  height: 60.67px;
+  object-fit: cover;
+}
+.login-with-google {
+  position: absolute;
+  top: 1032.4px;
+  left: 332.76px;
+  letter-spacing: -0.01em;
+  font-family: var(--font-glegoo);
+  display: inline-block;
+  width: 366.04px;
+  height: 62.6px;
+}
+.login-parent {
+  position: absolute;
+  top: 111px;
+  left: 189px;
+  width: 994px;
+  height: 1095px;
+}
+.trang-login {
+  position: relative;
+  border-radius: 30px;
+  background: linear-gradient(180deg, rgba(12, 239, 212, 0.85), #fdc9c9 89.37%);
+  width: 100%;
+  height: 1206px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-graduate);
+}

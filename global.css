@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+:root {
+  /* fonts */
+  --font-abeezee: ABeeZee;
+  --font-open-sans: "Open Sans";
+  --font-aclonica: Aclonica;
+  --font-inter: Inter;
+  --font-lexend-deca: "Lexend Deca";
+  --font-great-vibes: "Great Vibes";
+  --font-poppins: Poppins;
+  --font-glegoo: Glegoo;
+  --font-graduate: Graduate;
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+  --font-size-29xl: 48px;
+  --font-size-base: 16px;
+  --font-size-mini: 15px;
+  --font-size-5xl: 24px;
+  --font-size-21xl: 40px;
+  --font-size-17xl: 36px;
+  --font-size-xl: 20px;
+  --font-size-sm: 14px;
+  --font-size-smi: 13px;
+  --font-size-4xs: 9px;
+  --font-size-3xs: 10px;
+  --font-size-45xl: 64px;
+  --font-size-7xl: 26px;
+  --font-size-9xl: 28px;
+  --font-size-109xl: 128px;
+  --font-size-xs: 12px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-600: #929292;
+  --color-gray-700: #262626;
+  --color-gray-300: #252525;
+  --color-gray-100: #232020;
+  --color-gray-400: #171717;
+  --color-gray-500: #141313;
+  --color-gray-200: #121111;
+  --color-gray-800: #101112;
+  --color-gray-900: rgba(0, 0, 0, 0.5);
+  --color-black: #000;
+  --color-ghostwhite: #f7f7fe;
+  --color-red: #ef1b1b;
+  --color-lavenderblush-100: #fcefef;
+  --color-seashell: #fef4ec;
+  --color-gainsboro: #d9d9d9;
+  --color-gainsboro-100: rgba(217, 217, 217, 0.58);
+  --color-darkgreen: rgba(41, 112, 23, 0.61);
+  --color-darkslategray: #263238;
+
+  /* border radiuses */
+  --br-31xl: 50px;
+  --br-4xs: 9px;
+  --br-mini: 15px;
+  --br-8xs: 5px;
+  --br-6xl: 25px;
+}
